@@ -1,0 +1,12 @@
+Package: mmeDetect
+Type: Package
+Title: Calculate the probability of detection of a mass mortality event
+Version: 0.1.0
+Author: Justin M. Calabrese and Jesse L. Brunner
+Maintainer: Justin M. Calabres <CalabreseJ@si.edu>
+Description: Functions for calculating the total probability of detection of
+    an MME, given a decay rate and sampling schedule, as well a function for
+    calculating the optimal sampling strategy.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
